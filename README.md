@@ -23,7 +23,7 @@ This is a **Task Manager API** built with **Quarkus** and **MongoDB** using Pana
 
 ### ** Clone the Repository**
 ```sh
- git clone https://github.com/your-repo/task-manager-api.git
+ git clone https://github.com/hftm-in2022/mongodb-hamsiga-rajaratnam
  cd task-manager-api
 ```
 
